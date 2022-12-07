@@ -1,7 +1,7 @@
 ### Hi there, I'm Jorge Ornellas 👋
 
 
-- 🔭 I’m currently working as network infrastructure manager
+- 🔭 I’m currently working as network infrastructure manager.
 - 🌱 I’m currently learning backend applications, automations and optimizations.
 - 📫 How to reach me: junior.ornellas.nf@gmail.com
 
