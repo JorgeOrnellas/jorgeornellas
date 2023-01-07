@@ -39,6 +39,6 @@
 
   
 
-![snake gif](https://github.com/Jorgeornellas/jorgeornellas/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/JorgeOrnellas/jorgeornellas/blob/output/github-contribution-grid-snake.svg)
 </div>
 </div>
